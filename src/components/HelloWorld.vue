@@ -138,7 +138,7 @@
         <div class="relative max-w-md mx-auto px-4 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
           <div class="py-10 px-6 bg-gradient-to-l from-sky-800 to-cyan-700 rounded-3xl sm:py-16 sm:px-12 lg:py-20 lg:px-20 lg:flex lg:items-center">
             <div class="lg:w-0 lg:flex-1">
-              <h2 class="text-3xl font-extrabold tracking-tight text-white">Sign up for our newsletter</h2>
+              <h2 class="text-3xl font-bold tracking-tight text-white">Sign up for our newsletter</h2>
               <p class="mt-4 max-w-3xl text-lg text-cyan-100">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet fugiat.</p>
             </div>
             <div class="mt-12 sm:w-full sm:max-w-md lg:mt-0 lg:ml-8 lg:flex-1">

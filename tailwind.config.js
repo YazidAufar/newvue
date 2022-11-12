@@ -9,9 +9,9 @@ module.exports = {
         sky: colors.sky,
         cyan: colors.cyan,
       },
-      // fontFamily: {
-      //   sans: ['Inter var', ...defaultTheme.fontFamily.sans],
-      // },
+      fontFamily: {
+        'sans': ['Inter', 'Sans-serif']
+      },
     },
   },
   plugins: [ require('@tailwindcss/forms'),],
